@@ -13,3 +13,12 @@
   margin: 5px;
   border-radius:5px ;
 }
+#portrait{
+  background-color:orange;
+}
+#nature{
+  background-color: skyblue;
+}
+#wedding{
+  background-color: hotpink;
+}
